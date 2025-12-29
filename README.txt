@@ -1,3 +1,2 @@
-This is meant to chnage to student B repo clone
+STATUS=BRANCH_X
 
-Now added changes for testing merge conflicts
