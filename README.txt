@@ -1,3 +1,3 @@
-This is meant to chnage to student B repo clone
+This is meant to change for branch-y
 
 Now added changes for testing merge conflicts
