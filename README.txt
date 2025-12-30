@@ -1,2 +1,2 @@
-STATUS=BRANCH_y
+Resolved content 
 
